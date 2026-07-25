@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html,
+body {
+  font-family: Inter, sans-serif;
+  background: #f8fafc;
+}
