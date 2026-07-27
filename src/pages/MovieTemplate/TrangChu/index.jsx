@@ -1,10 +1,10 @@
 import { CardMovie } from "../../../component/common/CardMovie";
+import CarouselHome from "../../../component/common/Carousel";
 
 export default function TrangChu() {
   return (
     <div>
-      Trang chủ
-      <CardMovie />
+      <CarouselHome />
     </div>
   );
 }

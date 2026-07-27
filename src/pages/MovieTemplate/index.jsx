@@ -6,7 +6,9 @@ export default function MovieTemplate() {
   return (
     <>
       <HeaderMovie />
-      <Outlet />
+      <div className="container mx-auto">
+        <Outlet />
+      </div>
       <FooterMovie />
     </>
   );
