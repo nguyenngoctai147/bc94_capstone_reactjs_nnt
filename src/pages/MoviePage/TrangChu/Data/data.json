@@ -1,0 +1,45 @@
+{
+  "carouselBanner": [
+    {
+      "url": "./../../../../../public/images/banner-1.jpg",
+      "dot": 0
+    },
+    {
+      "url": "./../../../../../public/images/banner-2.jpg",
+      "dot": 1
+    },
+    {
+      "url": "./../../../../../public/images/banner-3.jpg",
+      "dot": 2
+    },
+    {
+      "url": "./../../../../../public/images/banner-4.jpg",
+      "dot": 3
+    },
+    {
+      "url": "./../../../../../public/images/banner-5.jpg",
+      "dot": 4
+    }
+  ],
+
+  "promotion": [
+    {
+      "id": "rm01",
+      "name": "COUPLE DAY - THỨ BA HẰNG TUẦN: GIẢM 20%",
+      "img": "https://images.pexels.com/photos/5650040/pexels-photo-5650040.jpeg",
+      "desc": "Chỉ cần cùng người thương đến rạp trong ngày Couple Day, bạn đã có thể tận hưởng combo bắp nước ưu đãi, giúp buổi xem phim thêm trọn vẹn và đáng nhớ."
+    },
+    {
+      "id": "rm02",
+      "name": "HAPPY MONDAY - ƯU ĐÃI XEM PHIM CHỈ TỪ 48K TẠI BHD STAR",
+      "img": "https://images.pexels.com/photos/5872180/pexels-photo-5872180.jpeg",
+      "desc": "Thứ Hai buồn tẻ? Không đâu nhé! Hãy để BHD Star Cineplex giúp bạn “reset năng lượng” đầu tuần với chương trình HAPPY MONDAY - Vé xem phim chỉ từ 48.000đ. Một chút điện ảnh, một chút bỏng ngô và không khí rạp mát lạnh sẽ khiến Monday trở nên đáng mong chờ hơn bao giờ hết!"
+    },
+    {
+      "id": "rm03",
+      "name": "ƯU ĐÃI SUẤT CHIẾU ĐÊM, CHỈ TỪ 48K",
+      "img": "https://images.pexels.com/photos/6214474/pexels-photo-6214474.jpeg",
+      "desc": "Bạn là “cú đêm” chính hiệu? Bạn đang tìm một trải nghiệm thú vị sau 22h? Hãy để BHD Star mang đến cho bạn một đêm hè đúng nghĩa với chương trình Ưu đãi xuất chiếu đêm"
+    }
+  ]
+}

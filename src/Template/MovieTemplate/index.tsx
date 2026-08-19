@@ -6,7 +6,9 @@ export default function MovieTemplate() {
   return (
     <>
       <HeaderMovie />
-      <Outlet />
+      <main className="w-full flex-1 bg-white px-2 sm:px-0">
+        <Outlet />
+      </main>
       <FooterMovie />
     </>
   );
